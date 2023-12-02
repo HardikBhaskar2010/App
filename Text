@@ -1,0 +1,22 @@
+Home Screen
+Header: App Name/Logo
+Navigation Bar: Home, Sleep Tracker, Tips, Settings
+Main Section: Overview of sleep statistics (graphs/charts showing sleep patterns)
+Call to Action: Button to access sleep tracker
+Sleep Tracker
+Header: Back Button, Title ("Sleep Tracker")
+Sleep Log: Input fields for bedtime and wake-up time
+Submit Button: Save sleep log
+Statistics: Display average sleep duration, sleep trends, recommendations
+Tips
+Header: Back Button, Title ("Tips for Better Sleep")
+List of Tips: Display various tips for improving sleep habits
+Categories: Sleep hygiene, bedtime routines, healthy habits
+Settings
+Header: Back Button, Title ("Settings")
+Options: Change notification settings, account settings, app preferences
+Additional Features
+Notifications: Reminders/alerts for bedtime
+Progress Tracking: Weekly/monthly sleep summaries
+Gamification: Badges/rewards for maintaining good sleep habits
+Resources: Links to articles/videos about healthy sleep habits
